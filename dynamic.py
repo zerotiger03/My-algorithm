@@ -21,4 +21,4 @@ def dynamic(n):
       lst.append([i*10, lst3[0]])
     return lst[n//10][1]
 
-dynamic(870)
+dynamic(870)  # return 8
